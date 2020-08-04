@@ -11,11 +11,31 @@
 
 ## My Tools and Languages
 
-<code><img height="20" href="https://www.rust-lang.org/" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Rust.svg"></code>
-<code><img height="20" href="https://godotengine.org/" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Godot.svg"></code>
-<code><img height="20" href="https://unity.com/" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Unity.svg"></code>
-<code><img height="20" href="https://www.python.org/" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Python.svg"></code>
-<code><img height="20" href="https://www.manjaro.org/" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Manjaro.svg"></code>
+<code>
+    <a href="https://www.rust-lang.org/">
+        <img height="20" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Rust.svg">
+    </a>
+</code>
+<code>
+    <a href="https://godotengine.org/">
+        <img height="20" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Godot.svg">
+    </a>
+</code>
+<code>
+    <a href="https://unity.com/">
+        <img height="20" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Unity.png">
+    </a>
+</code>
+<code>
+    <a href="https://www.python.org/">
+        <img height="20" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Python.svg">
+    </a>
+</code>
+<code>
+    <a href="https://www.manjaro.org/">
+        <img height="20" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Manjaro.svg">
+    </a>
+</code>
 
 ## Stats
 
