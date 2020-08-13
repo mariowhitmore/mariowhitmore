@@ -40,14 +40,14 @@ The game engine I use for school.
 
 ### Python
 <code>
-    <img height="512" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Python.svg">
+    <img width="100vh" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Python.svg">
 </code>
 
 Interpreted and easy to learn coding language.
 
 ### Manjaro Linux
 <code>
-    <img height="512" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Manjaro.svg">
+    <img height="256" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Manjaro.svg">
 </code>
 
 A modern linux distro designed to be more user friendly than the likes of Ubuntu which has become more server focused over the years.
