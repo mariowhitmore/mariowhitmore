@@ -10,35 +10,39 @@
 <!--- ⚡ Fun fact: ... --->
 
 ## My Tools and Languages
-
+### Firefox
 <code>
-    <a href="https://www.rust-lang.org/">
-        <img height="20" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Rust.svg">
-    </a>
+    <img height="7.5cm" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Firefox.svg">
 </code>
+Used for browsing the web and inspecting. I'd highly recommend using it and the more people using it the more Google pays Mozilla to be Firefox's default search engine.
+### Rust
 <code>
-    <a href="https://godotengine.org/">
-        <img height="20" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Godot.svg">
-    </a>
+    <img height="7.5cm" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Rust.svg">
 </code>
+Cool language with good debugging tools, an incredibly easy way of using external libraries, OS and Arch support
+### Godot
 <code>
-    <a href="https://unity.com/">
-        <img height="20" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Unity.png">
-    </a>
+    <img height="20" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Godot.svg">
 </code>
+An open source game engine with support for multiple languages and is incredibly easy to code for.
+### Unity
+<code>
+    <img height="20" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Unity.png">
+</code>
+The game engine I use for school.
+### Python
 <code>
     <a href="https://www.python.org/">
         <img height="20" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Python.svg">
     </a>
 </code>
+Interpreted and easy to learn coding language.
+### Manjaro Linux
 <code>
-    <a href="https://www.manjaro.org/">
-        <img height="20" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Manjaro.svg">
-    </a>
+    <img height="20" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Manjaro.svg">
 </code>
-
+A modern linux distro designed to be more user friendly than the likes of Ubuntu which has become more server focused over the years.
 ## Stats
-
 <a href="https://github.com/mariowhitmore/github-readme-statss">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariowhitmore&show_icons=true&theme=tokyonight" alt="Anurag's github stats" >
 </a>
