@@ -40,7 +40,7 @@ The game engine I use for school.
 
 ### Python
 <code>
-    <img width="100vh" src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Python.svg">
+    <img src="https://raw.githubusercontent.com/mariowhitmore/mariowhitmore/master/Icons/Python.svg" sytle="width:100vw;">
 </code>
 
 Interpreted and easy to learn coding language.
