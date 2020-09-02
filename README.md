@@ -2,8 +2,6 @@
 
 - I’m currently working on a [userspace gpio joystick driver for the raspberry pi 4](https://github.com/mariowhitmore/rust-raspi-controls)
 - I’m currently learning Rust and Godot
-<!--- 👯 I’m looking to collaborate on ...-->
-<!--- 🤔 I’m looking for help with ...-->
 - Ask me about Linux, Unity, Raspberry Pi
 - How to reach me: mariolwhitmore@gmail.com
 - Pronouns: She/Her
